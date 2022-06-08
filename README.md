@@ -6,4 +6,4 @@ I am a new Web developer able to build a Web presence from the ground up - from 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrank89&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamrank89)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamrank89&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
