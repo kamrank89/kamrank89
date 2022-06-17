@@ -19,7 +19,7 @@ I am an entry level Web developer able to build a Web presence from the ground u
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">
 </P>
  
-## Frameworks / Libraries / Modules I know :
+## Frameworks / Libraries / Modules I work with:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50">
