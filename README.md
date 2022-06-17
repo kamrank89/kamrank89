@@ -40,4 +40,13 @@ Entry level Web developer able to build a Web presence from the ground up - from
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrank89&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   4 hrs 8 mins    ████████████████░░░░░░░░░   63.36 %
+HTML         1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+CSS          48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Markdown     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+```
+
 <!--END_SECTION:waka-->
