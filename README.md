@@ -42,15 +42,15 @@ Entry level Web developer able to build a Web presence from the ground up - from
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
-Total Time: 6 hrs 46 mins
+Total Time: 4 hrs 56 mins
 
-JavaScript   4 hrs 8 mins    ███████████████▒░░░░░░░░░   61.18 %
-HTML         1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-CSS          48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Markdown     32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JavaScript   3 hrs 20 mins   █████████████████░░░░░░░░   67.48 %
+HTML         36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+CSS          28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Markdown     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JSON         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
