@@ -42,7 +42,7 @@ Entry level Web developer able to build a Web presence from the ground up - from
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 June 2022 - To: 03 July 2022
+From: 27 June 2022 - To: 04 July 2022
 
 Total Time: 6 hrs 59 mins
 
