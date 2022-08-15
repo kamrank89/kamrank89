@@ -42,16 +42,16 @@ Junior Web developer able to build a Web presence from the ground up - from conc
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 12 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
-Total Time: 8 hrs 19 mins
+Total Time: 6 hrs 6 mins
 
-JavaScript   7 hrs 15 mins   ████████████████▓░░░░░░░░   66.76 %
-TypeScript   2 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-HTML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   5 hrs 44 mins   ██████████████▒░░░░░░░░░░   56.97 %
+TypeScript   3 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.60 %
+HTML         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
