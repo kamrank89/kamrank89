@@ -42,16 +42,16 @@ Junior Web developer able to build a Web presence from the ground up - from conc
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-Total Time: 7 hrs 39 mins
+Total Time: 7 hrs 27 mins
 
-JavaScript   5 hrs 1 min     ████████████████░░░░░░░░░   63.98 %
-EJS          53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-YAML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Docker       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-HTML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-CSS          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JavaScript   5 hrs 20 mins   █████████████████▒░░░░░░░   69.80 %
+EJS          53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+YAML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Docker       27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+CSS          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
